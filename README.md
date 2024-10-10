@@ -5,6 +5,10 @@
 
 <hr/>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📝 I regularly write articles on [https://medium.com/@pabasarapasindu365](https://medium.com/@pabasarapasindu365)
@@ -14,6 +18,17 @@
 - 📫 How to reach me **pabasarapasindu3652gmail.com**
 
 - ⚡ Fun fact **Thanks for visiting my GitHub! 😊**
+
+ </td>
+<td width="50%" align="center">
+
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+  
+  </td>
+</tr>
+</table>
+
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/pasindu-pabasara-781822307/' target='_blank'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
