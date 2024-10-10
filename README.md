@@ -29,6 +29,22 @@
 </tr>
 </table>
 
+```python
+class PasinduPabasara():
+    
+  def __init__(self):
+    self.name = "Pasindu Pabasara";
+    self.username = "Pasindu";
+    self.location = "Kurunegala, Sri Lanka";
+    self.age = 20;
+    self.university = "UOM";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = PasinduPabasara()
+```
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/pasindu-pabasara-781822307/' target='_blank'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
