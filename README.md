@@ -15,7 +15,7 @@
 
 - 🌐 Explore my work and projects on my portfolio: https://pasindupabasarasl.github.io/portfolio/
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about my work, tech skills, or any project inquiries!
 
 - 📫 How to reach me **pabasarapasindu3652gmail.com**
 
