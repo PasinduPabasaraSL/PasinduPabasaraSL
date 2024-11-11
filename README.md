@@ -13,6 +13,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pabasarapasindu365](https://medium.com/@pabasarapasindu365)
 
+- 🌐 Explore my work and projects on my portfolio: https://pasindupabasarasl.github.io/portfolio/
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **pabasarapasindu3652gmail.com**
