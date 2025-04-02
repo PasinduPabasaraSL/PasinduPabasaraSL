@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@pabasarapasindu365](https://medium.com/@pabasarapasindu365)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pabasarapasindu3652gmail.com**
 
-- ⚡ Fun fact **Thanks for visiting my GitHub!**
+- **Thanks for visiting my GitHub!**
 
  </td>
 <td width="50%" align="center">
