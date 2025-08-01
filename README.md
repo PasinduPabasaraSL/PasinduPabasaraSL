@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pabasarapasindu365](https://medium.com/@pabasarapasindu365)
 
-- 🌐 Explore my work and projects on my portfolio: https://pasindupabasarasl.github.io/portfolio/
+- 🌐 Explore my work and projects on my portfolio: https://pasi-dev.vercel.app/
 
 - 💬 Ask me about my work, tech skills, or any project inquiries!
 
