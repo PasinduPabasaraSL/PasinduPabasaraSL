@@ -30,21 +30,35 @@
 </tr>
 </table>
 
-```python
-class PasinduPabasara():
-    
-  def __init__(self):
-    self.name = "Pasindu Pabasara";
-    self.username = "Pasindu";
-    self.location = "Kurunegala, Sri Lanka";
-    self.age = 20;
-    self.university = "UOM";
-  
-  def __str__(self):
-    return self.name
+```yaml
+name: pasindu-pabasara
 
-if __name__ == '__main__':
-    me = PasinduPabasara()
+on:
+  workflow_dispatch:
+
+env:
+  NAME: "Pasindu Pabasara"
+  ROLE: "DevOps | Software Engineering"
+  LOCATION: "Kurunegala, Sri Lanka"
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Profile
+        run: |
+          echo "$NAME"
+          echo "$ROLE"
+          echo "$LOCATION"
+
+      - name: Build
+        run: docker build -t pasindu .
+
+      - name: Test
+        run: docker run --rm pasindu
+
 ```
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
